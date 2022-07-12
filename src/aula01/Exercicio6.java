@@ -11,7 +11,7 @@ public class Exercicio6 {
 		 * esse múltiplo. Caso encontre outro, o valor deve mudar para este novo
 		 * múltiplo. Ex: 1, 10, 11, 20, 12 -> 1, 10, 10, 20, 20.
 		 */
-		int ultimoMultiplo = 0;
+		int ultimoMultiplo = 1;
 
 		int[] array = { 1, 10, 11, 20, 12 };
 
